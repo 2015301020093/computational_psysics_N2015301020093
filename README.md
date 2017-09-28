@@ -1,7 +1,7 @@
 # computational_psysics_N2015301020093
 - [x] [print your name](https://www.zybuluo.com/mdeditor#884609)<br>
 - [x] [pygame](https://www.zybuluo.com/mdeditor#895429)<br>
-- [x] [Question 1.3](https://www.zybuluo.com/mdeditor#901756）<br>
+- [x] [Question 1.3](https://www.zybuluo.com/mdeditor#901756)<br>
 - [ ] [The decay of two kinds of particles](https://www.zybuluo.com/mdeditor#884614)<br>
 - [ ] [Population growth](https://www.zybuluo.com/mdeditor#884649)<br>
 - [ ] [The cannon](https://www.zybuluo.com/mdeditor#884651)<br>
