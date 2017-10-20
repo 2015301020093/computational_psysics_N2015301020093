@@ -3,7 +3,7 @@
 - [x] [pygame](https://www.zybuluo.com/mdeditor#895429)<br>
 - [x] [Question 1.3](https://www.zybuluo.com/mdeditor#901756)<br>
 - [x] [Question 2.11](https://www.zybuluo.com/mdeditor#914313)<br>
-- [ ] [The decay of two kinds of particles](https://www.zybuluo.com/mdeditor#884614)<br>
+- [x] [Question 2.21](https://www.zybuluo.com/mdeditor#921996)<br>
 - [ ] [Population growth](https://www.zybuluo.com/mdeditor#884649)<br>
 - [ ] [The cannon](https://www.zybuluo.com/mdeditor#884651)<br>
 - [ ] [The spin of baseball and Visual motion of baseball](https://www.zybuluo.com/mdeditor#884655)<br>
